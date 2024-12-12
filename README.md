@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Machine Learning Projects</title>
-</head>
 <body>
 
   <h1>Machine Learning Projects</h1>
